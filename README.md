@@ -1,4 +1,5 @@
 # btl-MMT
 
-+ Tạo cơ sở dữ liệu: import file dữ liệu vào mysql
-+ Mở project trên Netbeans và open 2 folder chart-application và Server sau đó run 2 folder cùng 1 lúc
++ Cần cài đặt mysql phiên bản 5.6
++ mở file sql và run
++ Mở project trên Netbeans và open 2 folder chart-application và Server sau đó run hàm main của 2 folder cùng 1 lúc
